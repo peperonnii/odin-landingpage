@@ -8,7 +8,6 @@
   background-color: var(--background);
   font-family: Roboto;
 }
-
 body {
   padding: 0 20% 0 20%;
 }
@@ -16,6 +15,10 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+h1 h2 {
+  padding: none;
+  margin: none;
 }
 
 .navbar {
@@ -40,4 +43,13 @@ ul {
 .navbar-item a:visited {
   color: #e5e7eb;
   text-decoration: none;
+}
+
+.intro {
+  display: flex;
+  border: dashed;
+  border-color: red;
+}
+.intro h1 {
+  border: inherit;
 }
