@@ -9,6 +9,5 @@ The project aims to teach me the fundamentals of CSS and HTML.
 The goal is to recreate the landing page based off of this image:
 ![target.png](target.png)
 
-### Template
-I am to use this template:
+### Style Template
 ![template.png](template.png)
