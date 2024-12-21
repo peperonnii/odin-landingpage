@@ -1,3 +1,7 @@
-p {
-  color: blue;
+:root {
+  --backround: #1f2937;
+}
+
+* {
+  background-color: var(--backround);
 }
