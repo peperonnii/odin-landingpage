@@ -8,4 +8,4 @@ The goal is to recreate the landing page based off of this image:
 
 ### Template
 I am to use this template:
-![template.png]
+![template.png](template.png)
